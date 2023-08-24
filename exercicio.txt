@@ -1,0 +1,9 @@
+git commit -a -m "apo1(git): teste multiplicacao"
+git push -u origin main
+git commit -a -m "apo1(git): divisao implementada"
+git push 
+git commit -a -m "apo1(git): teste divisao"
+git push 
+git tag -a v1.2.0 df2cbe
+git tag v1.3.0
+git push --tags 
